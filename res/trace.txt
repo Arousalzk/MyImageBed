@@ -1,0 +1,8 @@
+1.git add .
+2.git commit -m "xxx"
+3.git push -u origin master
+完成上传
+4.https://github.com/Arousalzk/myImageBed/tree/master/res 访问项目
+5.找到图片，点击download
+6.拷贝链接地址https://raw.githubusercontent.com/Arousalzk/myImageBed/master/res/dev/vmvare_newVM.png     
+7.在Markdown中引用图片，![vmvare_newVM](https://raw.githubusercontent.com/Arousalzk/myImageBed/master/res/dev/vmvare_newVM.png)
